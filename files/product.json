@@ -1,0 +1,492 @@
+
+[
+    [
+        {
+            "id" : 1,
+            "img" : {
+                "imageWebp" : "img/product/burger/01.webp",
+                "imageJpg" : "img/product/burger/01.jpg"
+            },
+            "price" : 250,
+            "label" : "М'ясна бомба",
+            "weight" : 520
+        },
+        {
+            "id" : 2,
+            "img" : {
+                "imageJpg" : "img/product/burger/02.jpg",
+                "imageWebp" : "img/product/burger/02.webp"
+            },
+            "price" : 350,
+            "label" : "Супер сирний",
+            "weight" : 420
+        },
+        {
+            "id" : 3,
+            "img" : {
+                "imageJpg" : "img/product/burger/03.jpg",
+                "imageWebp" : "img/product/burger/03.webp"
+            },
+            "price" : 300,
+            "label" : "Ситний",
+            "weight" : 420
+        },
+        {
+            "id" : 4,
+            "img" : {
+                "imageJpg" : "img/product/burger/04.jpg",
+                "imageWebp" : "img/product/burger/04.webp"
+            },
+            "price" : 380,
+            "label" : "Тяжкий удар",
+            "weight" : 420
+        },
+        {
+            "id" : 5,
+            "img" : {
+                "imageJpg" : "img/product/burger/05.jpg",
+                "imageWebp" : "img/product/burger/05.webp"
+            },
+            "price" : 580,
+            "label" : "Класика",
+            "weight" : 620
+        },
+        {
+            "id" : 6,
+            "img" : {
+                "imageJpg" : "img/product/burger/06.jpg",
+                "imageWebp" : "img/product/burger/06.webp"
+            },
+            "price" : 410,
+            "label" : "Італійський",
+            "weight" : 390
+        }
+    ],
+    [   
+        {
+            "id" : 7,
+            "img" : {
+                "imageJpg" : "img/product/onion/01.jpg",
+                "imageWebp" : "img/product/onion/01.webp"
+            },
+            "price" : 250,
+            "label" : "Начос",
+            "weight" : 520
+        },
+        {
+            "id" : 8,
+            "img" : {
+                "imageJpg" : "img/product/onion/02.jpg",
+                "imageWebp" : "img/product/onion/02.webp"
+            },
+            "price" : 350,
+            "label" : "Картошка фрі",
+            "weight" : 420
+        },
+        {
+            "id" : 9,
+            "img" : {
+                "imageJpg" : "img/product/onion/03.jpg",
+                "imageWebp" : "img/product/onion/03.webp"
+            },
+            "price" : 300,
+            "label" : "Цибулеві кільця",
+            "weight" : 200
+        },
+        {
+            "id" : 10,
+            "img" : {
+                "imageJpg" : "img/product/onion/02.jpg",
+                "imageWebp" : "img/product/onion/02.webp"
+            },
+            "price" : 380,
+            "label" : "Картошка фрі",
+            "weight" : 420
+        }
+        ,
+        {
+            "id" : 11,
+            "img" : {
+                "imageJpg" : "img/product/onion/01.jpg",
+                "imageWebp" : "img/product/onion/01.webp"
+            },
+            "price" : 580,
+            "label" : "Начос",
+            "weight" : 620
+        }
+    ],
+    [
+        {
+            "id" : 12,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/01.jpg",
+                "imageWebp" : "img/product/hotdog/01.webp"
+            },
+            "price" : 250,
+            "label" : "Домашній хот-дог",
+            "weight" : 220
+        },
+        {
+            "id" : 13,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/02.jpg",
+                "imageWebp" : "img/product/hotdog/02.webp"
+            },
+            "price" : 350,
+            "label" : "Пекучий хот-дог",
+            "weight" : 320
+        },
+        {
+            "id" : 14,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/03.jpg",
+                "imageWebp" : "img/product/hotdog/03.webp"
+            },
+            "price" : 300,
+            "label" : "Класичний хот-дог",
+            "weight" : 400
+        },
+        {
+            "id" : 15,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/02.jpg",
+                "imageWebp" : "img/product/hotdog/02.webp"
+            },
+            "price" : 380,
+            "label" : "Пекучий хот-дог",
+            "weight" : 340
+        },
+        {
+            "id" : 16,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/03.jpg",
+                "imageWebp" : "img/product/hotdog/03.webp"
+            },
+            "price" : 400,
+            "label" : "Класичний хот-дог",
+            "weight" : 620
+        },
+        {
+            "id" : 17,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/01.jpg",
+                "imageWebp" : "img/product/hotdog/01.webp"
+            },
+            "price" : 410,
+            "label" : "Домашній хот-дог",
+            "weight" : 390
+        }
+    ],
+    [
+        {
+            "id" : 18,
+            "img" : {
+                "imageJpg" : "img/product/burger/01.jpg",
+                "imageWebp" : "img/product/burger/01.webp"
+            },
+            "price" : 250,
+            "label" : "М'ясна бомба",
+            "weight" : 520
+        },
+        {
+            "id" : 19,
+            "img" : {
+                "imageJpg" : "img/product/burger/02.jpg",
+                "imageWebp" : "img/product/burger/02.webp"
+            },
+            "price" : 350,
+            "label" : "Супер сирний",
+            "weight" : 420
+        },
+        {
+            "id" : 20,
+            "img" : {
+                "imageJpg" : "img/product/burger/03.jpg",
+                "imageWebp" : "img/product/burger/03.webp"
+            },
+            "price" : 300,
+            "label" : "Ситний",
+            "weight" : 420
+        },
+        {
+            "id" : 21,
+            "img" : {
+                "imageJpg" : "img/product/burger/04.jpg",
+                "imageWebp" : "img/product/burger/04.webp"
+            },
+            "price" : 380,
+            "label" : "Тяжкий удар",
+            "weight" : 420
+        },
+        {
+            "id" : 22,
+            "img" : {
+                "imageJpg" : "img/product/burger/05.jpg",
+                "imageWebp" : "img/product/burger/05.webp"
+            },
+            "price" : 580,
+            "label" : "Класика",
+            "weight" : 620
+        },
+        {
+            "id" : 23,
+            "img" : {
+                "imageJpg" : "img/product/burger/06.jpg",
+                "imageWebp" : "img/product/burger/06.webp"
+            },
+            "price" : 410,
+            "label" : "Італійський",
+            "weight" : 390
+        }
+    ],
+    [   
+        {
+            "id" : 24,
+            "img" : {
+                "imageJpg" : "img/product/onion/01.jpg",
+                "imageWebp" : "img/product/onion/01.webp"
+            },
+            "price" : 250,
+            "label" : "Начос",
+            "weight" : 520
+        },
+        {
+            "id" : 25,
+            "img" : {
+                "imageJpg" : "img/product/onion/02.jpg",
+                "imageWebp" : "img/product/onion/02.webp"
+            },
+            "price" : 350,
+            "label" : "Картошка фрі",
+            "weight" : 420
+        },
+        {
+            "id" : 26,
+            "img" : {
+                "imageJpg" : "img/product/onion/03.jpg",
+                "imageWebp" : "img/product/onion/03.webp"
+            },
+            "price" : 300,
+            "label" : "Цибулеві кільця",
+            "weight" : 200
+        },
+        {
+            "id" : 27,
+            "img" : {
+                "imageJpg" : "img/product/onion/02.jpg",
+                "imageWebp" : "img/product/onion/02.webp"
+            },
+            "price" : 380,
+            "label" : "Картошка фрі",
+            "weight" : 420
+        }
+    ],
+    [
+        {
+            "id" : 28,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/01.jpg",
+                "imageWebp" : "img/product/hotdog/01.webp"
+            },
+            "price" : 250,
+            "label" : "Домашній хот-дог",
+            "weight" : 220
+        },
+        {
+            "id" : 29,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/02.jpg",
+                "imageWebp" : "img/product/hotdog/02.webp"
+            },
+            "price" : 350,
+            "label" : "Пекучий хот-дог",
+            "weight" : 320
+        },
+        {
+            "id" : 30,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/03.jpg",
+                "imageWebp" : "img/product/hotdog/03.webp"
+            },
+            "price" : 300,
+            "label" : "Класичний хот-дог",
+            "weight" : 400
+        },
+        {
+            "id" : 31,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/02.jpg",
+                "imageWebp" : "img/product/hotdog/02.webp"
+            },
+            "price" : 380,
+            "label" : "Пекучий хот-дог",
+            "weight" : 340
+        },
+        {
+            "id" : 32,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/03.jpg",
+                "imageWebp" : "img/product/hotdog/03.webp"
+            },
+            "price" : 400,
+            "label" : "Класичний хот-дог",
+            "weight" : 620
+        },
+        {
+            "id" : 33,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/01.jpg",
+                "imageWebp" : "img/product/hotdog/01.webp"
+            },
+            "price" : 410,
+            "label" : "Домашній хот-дог",
+            "weight" : 390
+        }
+    ],
+    [
+        {
+            "id" : 34,
+            "img" : {
+                "imageJpg" : "img/product/burger/01.jpg",
+                "imageWebp" : "img/product/burger/01.webp"
+            },
+            "price" : 250,
+            "label" : "М'ясна бомба",
+            "weight" : 520
+        },
+        {
+            "id" : 35,
+            "img" : {
+                "imageJpg" : "img/product/burger/02.jpg",
+                "imageWebp" : "img/product/burger/02.webp"
+            },
+            "price" : 350,
+            "label" : "Супер сирний",
+            "weight" : 420
+        },
+        {
+            "id" : 36,
+            "img" : {
+                "imageJpg" : "img/product/burger/03.jpg",
+                "imageWebp" : "img/product/burger/03.webp"
+            },
+            "price" : 300,
+            "label" : "Ситний",
+            "weight" : 420
+        },
+        {
+            "id" : 37,
+            "img" : {
+                "imageJpg" : "img/product/burger/04.jpg",
+                "imageWebp" : "img/product/burger/04.webp"
+            },
+            "price" : 380,
+            "label" : "Тяжкий удар",
+            "weight" : 420
+        }
+    ],
+    [   
+        {
+            "id" : 38,
+            "img" : {
+                "imageJpg" : "img/product/onion/01.jpg",
+                "imageWebp" : "img/product/onion/01.webp"
+            },
+            "price" : 250,
+            "label" : "Начос",
+            "weight" : 520
+        },
+        {
+            "id" : 39,
+            "img" : {
+                "imageJpg" : "img/product/onion/02.jpg",
+                "imageWebp" : "img/product/onion/02.webp"
+            },
+            "price" : 350,
+            "label" : "Картошка фрі",
+            "weight" : 420
+        },
+        {
+            "id" : 40,
+            "img" : {
+                "imageJpg" : "img/product/onion/03.jpg",
+                "imageWebp" : "img/product/onion/03.webp"
+            },
+            "price" : 300,
+            "label" : "Цибулеві кільця",
+            "weight" : 200
+        },
+        {
+            "id" : 41,
+            "img" : {
+                "imageJpg" : "img/product/onion/02.jpg",
+                "imageWebp" : "img/product/onion/02.webp"
+            },
+            "price" : 380,
+            "label" : "Картошка фрі",
+            "weight" : 420
+        }
+    ],
+    [
+        {
+            "id" : 42,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/01.jpg",
+                "imageWebp" : "img/product/hotdog/01.webp"
+            },
+            "price" : 250,
+            "label" : "Домашній хот-дог",
+            "weight" : 220
+        },
+        {
+            "id" : 43,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/02.jpg",
+                "imageWebp" : "img/product/hotdog/02.webp"
+            },
+            "price" : 350,
+            "label" : "Пекучий хот-дог",
+            "weight" : 320
+        },
+        {
+            "id" : 44,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/03.jpg",
+                "imageWebp" : "img/product/hotdog/03.webp"
+            },
+            "price" : 300,
+            "label" : "Класичний хот-дог",
+            "weight" : 400
+        },
+        {
+            "id" : 45,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/02.jpg",
+                "imageWebp" : "img/product/hotdog/02.webp"
+            },
+            "price" : 380,
+            "label" : "Пекучий хот-дог",
+            "weight" : 340
+        },
+        {
+            "id" : 46,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/03.jpg",
+                "imageWebp" : "img/product/hotdog/03.webp"
+            },
+            "price" : 400,
+            "label" : "Класичний хот-дог",
+            "weight" : 620
+        },
+        {
+            "id" : 47,
+            "img" : {
+                "imageJpg" : "img/product/hotdog/01.jpg",
+                "imageWebp" : "img/product/hotdog/01.webp"
+            },
+            "price" : 410,
+            "label" : "Домашній хот-дог",
+            "weight" : 390
+        }
+    ]
+]
